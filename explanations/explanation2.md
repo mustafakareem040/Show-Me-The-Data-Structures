@@ -1,5 +1,3 @@
-# Problem 1
-
 # Approach
 
 I used os module to list directories and simplify stuff I also used recursion instead of nested loop because the code would be more readable and because the problem is called "File Recursion".
