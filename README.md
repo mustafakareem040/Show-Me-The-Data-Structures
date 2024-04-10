@@ -1,10 +1,10 @@
 # Show-Me-The-Data-Structures
 Udacity second project of Data Structures and Algorithms course
 
-# Problems:
-**Problem 1**: LRU Cache.
-**Problem 2**: File Recursion.
-**Problem 3**: Huffman Tree.
-**Problem 4**: Active Directory.
-**Problem 5**: Blockchain.
-**Problem 6**: Union and intersection in linked lists.
+# Problems
+1. **Problem 1**: LRU Cache.
+2. **Problem 2**: File Recursion.
+3. **Problem 3**: Huffman Tree.
+4. **Problem 4**: Active Directory.
+5. **Problem 5**: Blockchain.
+6. **Problem 6**: Union and intersection in linked lists.
