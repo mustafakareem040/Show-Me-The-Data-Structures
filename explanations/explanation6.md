@@ -15,15 +15,15 @@ Duplications are also allowed in the intersection, but for the minimum count in 
 The approach is as follows:
 1. Creating a counter dictionary for the first list.
 2. Iterating through the second list.
-3. If the value exists in the dictionary and has `item > 0`, go to step 4; otherwise, step 2.
-4. Subtract `counter[value]` by 1.
+3. If the value exists in the dictionary and has *item > 0*, go to step 4; otherwise, step 2.
+4. Subtract *counter[value]* by 1.
 5. Add the value to the linked list.
 
 ## Time Complexity
-**Union**: *O(n⋅m)*.
-**Intersection**: *O(n⋅m)*.
-*where n is the size of the first list and m is the size of the second list.*
+**Union**: *O(n⋅m)*.  
+**Intersection**: *O(n⋅m)*.  
+*where n is the size of the first list and m is the size of the second list.*  
 
 ## Space Complexity
-**Union**: *O(n⋅m)*.
-**Intersection**: *O(2n)* in the worst case if `list1 == list2`.
+**Union**: *O(n⋅m)*.  
+**Intersection**: *O(2n)* in the worst case if `list1 == list2`.  
